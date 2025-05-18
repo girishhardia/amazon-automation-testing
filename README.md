@@ -29,7 +29,7 @@ This project automates the login process on [Amazon.in](https://www.amazon.in) u
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/amazon-automation-testing.git
+   git clone https://github.com/girishhardia/amazon-automation-testing.git
    cd amazon-automation-testing
    ```
 

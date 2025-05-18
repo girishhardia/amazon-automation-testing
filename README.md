@@ -70,7 +70,7 @@ This project automates the login process on [Amazon.in](https://www.amazon.in) u
 amazon-automation-testing/
 │
 ├── amazon_login_automation.py    # Main script to perform login automation
-├── logindata.py                  # Contains login credentials (not for upload)
+├── logindata.py                  # Contains login credentials
 └── README.md                     # Project documentation
 ```
 

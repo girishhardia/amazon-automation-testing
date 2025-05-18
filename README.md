@@ -54,7 +54,6 @@ This project automates the login process on [Amazon.in](https://www.amazon.in) u
    PASSWORD = "your-password"
    ```
 
-   > 🔒 **Important:** Do **NOT** upload this file to GitHub.
 
 5. **Run the Script**
 

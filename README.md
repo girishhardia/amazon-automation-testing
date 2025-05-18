@@ -94,6 +94,6 @@ amazon-automation-testing/
 
 ---
 
-##📜 License
+## 📜 License
 
 This project is open-source and available for educational use. Do not use for scraping or violating website terms.
